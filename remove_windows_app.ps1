@@ -2,7 +2,7 @@
 #
 # Synopsis
 #
-# remove unnecessary windows 10 apps
+# remove unnecessary windows 10 apps from logged in user
 #
 #
 ################################################################
