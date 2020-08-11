@@ -12,4 +12,3 @@ ForEach ($DC in $DomainControllers.Name) {
     REPADMIN /kcc $DC
     REPADMIN /syncall /A /e /q $DC
 }
-################################################################
