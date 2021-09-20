@@ -26,4 +26,7 @@ remove_windows_apps.ps1 => remove unnecessary windows 10 apps from logged in use
 
 SyncDCs.ps1 => force AD replication for all existing DCs
 
+import_gpo.ps1 => Imports GPOs from selected folder, german translation and added logging to c:\temp\import.log 
+
 ## Links
+https://johnpenford.wordpress.com/category/gpo/
