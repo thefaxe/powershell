@@ -28,5 +28,7 @@ SyncDCs.ps1 => force AD replication for all existing DCs
 
 import_gpo.ps1 => Imports GPOs from selected folder, german translation and added logging to c:\temp\import.log 
 
+sync_intune_devices.ps1 => force sync of up to 1000 windows devices connected to Intune
+
 ## Links
 https://johnpenford.wordpress.com/category/gpo/
